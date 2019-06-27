@@ -1,0 +1,100 @@
+#logo{
+	width: 80px;
+	height: 80px;
+	
+}
+
+.reap{
+	padding-top: 40px;
+	font-size: 30px;
+	font-family: sans-serif;
+}
+ 
+.navbar{
+	background:#CD5C5C ;
+} 
+
+#myCarousel{
+	margin-top: 50px;
+	font-size: 50px;
+	color: #000000;
+}
+
+
+ #myCarousel .hero{
+    
+ 	height: 540px;
+ 	width: 100%;
+ }
+ .navi{
+ 	text-decoration: none;
+ 	color: white;
+ }
+ #featuresHeading{
+ 	margin-top: 50px;
+ 	text-align: center;
+ 	font-family: sans-serif;
+ }
+
+
+
+#features{
+	margin-top: 50px;
+    text-align: center;
+    font-family: sans-serif;
+
+}
+
+#features img{
+	margin-bottom: 20px;
+	height: 150px;
+	width: 200px; 
+
+}
+
+#tab2 img{
+	height: 150px;
+	width: 150px;
+}
+
+footer{
+	margin-top: 50px;
+	background: #CD5C5C;
+	color: 	#FFFFFF;
+	font-size: 11px;
+	padding: 20px;
+
+}
+
+ul.unstyled{
+	list-style: none;
+	padding: 0px;
+	font-family: sans-serif;
+}
+/* Style all font awesome icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
